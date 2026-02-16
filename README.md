@@ -51,7 +51,7 @@ Global:
 
 Note: `enter` only switches modules when the sidebar selection is different from the active module. Otherwise it passes through to the active module.
 
-Module-specific hints appear in the footer when a module is active. The footer panel is labeled “Commands” and wraps to two lines if needed.
+Module-specific hints appear in the footer when a module is active. The footer panel is labeled "Commands" and wraps to two lines if needed.
 
 ## Features
 
